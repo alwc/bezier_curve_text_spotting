@@ -12,7 +12,7 @@ class DatasetCatalog(object):
             "totaltext/annotations/total_train.json"
         ),
         "tt_word_test": (
-            "totaltext/images",
+            "totaltext/test_images",
             "totaltext/annotations/total_test.json"
         ),
         "ctw1500_word_train": (
