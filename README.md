@@ -5,11 +5,11 @@
 We provide demo in this repository. The training code will be updated at [adet](https://github.com/aim-uofa/adet).
 
 # Run
-model [link]
+model [[Google Drive]](https://drive.google.com/open?id=1JiIhZXYE5VvT7f7BmaBbtDJThOkR36bo)
 
-data  [link]
+data  [[Google Drive]](https://drive.google.com/open?id=1Y0fkBy0uy6uFKdlv6IVTZPvERqAoK_j2)
 
-Syntext-150k [link]
+Syntext-150k [link] (Part1: 54,327 images. Part2: 94,723 images.)
 
 ```
 bash vis_demo.sh
@@ -18,6 +18,12 @@ bash vis_demo.sh
 # Description
 
 Update soon.
+
+# Generated Results Download
+
+CTW1500 [train][test]
+
+Totaltext [train][test]
 
 # Cite
 
