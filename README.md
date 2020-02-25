@@ -4,16 +4,29 @@
 
 We provide demo in this repository. The training code will be updated at [adet](https://github.com/aim-uofa/adet).
 
-# Run
-model [[Google Drive]](https://drive.google.com/open?id=1JiIhZXYE5VvT7f7BmaBbtDJThOkR36bo)
-
-test_data  [[Google Drive]](https://drive.google.com/open?id=1Y0fkBy0uy6uFKdlv6IVTZPvERqAoK_j2)
-
-Syntext-150k [link] (Part1: 54,327 images. Part2: 94,723 images.)
+# Run Demo
 
 ```
 bash vis_demo.sh
 ```
+
+We assume that your symlinked `datasets/totaltext` directory has the following structure:
+
+```
+totaltext
+|_ test_images
+|  |_ 0000000.jpg
+|  |_ ...
+|  |_0000299.jpg
+|_ annotations
+|  |_ total_test.json 
+```
+
+Model [[Google Drive]](https://drive.google.com/open?id=1JiIhZXYE5VvT7f7BmaBbtDJThOkR36bo) 
+
+Totaltext test data  [[Google Drive]](https://drive.google.com/open?id=1Y0fkBy0uy6uFKdlv6IVTZPvERqAoK_j2)
+
+Syntext-150k [link] (Part1: 54,327 images. Part2: 94,723 images.)
 
 # Description
 
@@ -25,7 +38,7 @@ Bezier-curve generated script [link](https://drive.google.com/open?id=1bFmdXCCsW
 
 [CTW1500](https://github.com/Yuliang-Liu/Curve-Text-Detector) visualization results [[link]](https://drive.google.com/open?id=16PacExPoEspHS1k97-YJMFmDf-UEpPF6) (original training images can be downloaded [Here](https://github.com/Yuliang-Liu/Curve-Text-Detector/tree/master/data))
 
-[Totaltext](https://github.com/cs-chan/Total-Text-Dataset) visualization results [[link]]()
+[Totaltext](https://github.com/cs-chan/Total-Text-Dataset) visualization results [[link]](https://drive.google.com/open?id=1LN-ZuVsajlAU-WAdJgTQsOwCSmGPzTPi)
 
 # Cite
 
