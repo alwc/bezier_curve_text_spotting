@@ -2,7 +2,7 @@
 
 [paper](https://arxiv.org/abs/2002.10200). The paper will be updated soon.
 
-We provide demo in this repository. The training code will be updated at [adet](https://github.com/aim-uofa/adet).
+We provide demo in this repository. We will update our code at [adet](https://github.com/aim-uofa/adet).
 
 # Run Demo
 
